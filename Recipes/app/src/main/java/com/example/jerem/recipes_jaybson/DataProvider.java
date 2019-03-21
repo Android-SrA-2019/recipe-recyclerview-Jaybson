@@ -1,5 +1,7 @@
 package com.example.jerem.recipes_jaybson;
 
+import android.support.v7.widget.RecyclerView;
+
 import java.util.LinkedList;
 
 public class DataProvider {
